@@ -1,4 +1,4 @@
-In this linux practice project I have practice the following linux commands.
+In this linux practice project I have practice the following linux commands. \n
 sudo, pwd, cd, ls, cat, cp, mv, mkdir, rm, rmdir, diff, touch, locate, find, df, du, head, tail, less, more, tar, zip, unzip, hostname, 
 chmod, chown, jobs, ps, kill, top, htop, ping, free, wget, uname, man, echo, grep, useradd, usermod, userdel, passwd, id, apt-get, nano, vi, alias, unalias, su.
 
