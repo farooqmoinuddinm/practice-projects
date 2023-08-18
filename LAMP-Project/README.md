@@ -1,7 +1,8 @@
 # Setting up the LAMP Server in Ubuntu.
 ### Created the ec2-instance in AWS cloud.
 <img width="452" alt="image" src="https://github.com/farooqmoinuddinm/practice-projects/assets/23025815/65aedfba-42ab-41cc-ab43-f3cd0f532f8d">
-### Logged into the server and installed the LAMP packages with below commands.\
+
+### Logged into the server and installed the LAMP packages with below commands.
 
 *apache2 installation*
 
@@ -28,7 +29,8 @@ sudo mysql
 sudo mysql_secure_installation
 
 ```
-<img width="452" alt="image" src="https://github.com/farooqmoinuddinm/practice-projects/assets/23025815/1347e487-4aaa-415f-8724-eaf669a1c0e4">
+<img width="452" alt="image" src="https://github.com/farooqmoinuddinm/practice-projects/assets/23025815/1347e487-4aaa-415f-8724-eaf669a1c0e4">\
+
 <img width="452" alt="image" src="https://github.com/farooqmoinuddinm/practice-projects/assets/23025815/c23208ef-0c47-44ae-8bbc-585e4192954d">
 
 *PHP installation*
@@ -37,7 +39,7 @@ sudo mysql_secure_installation
 sudo install php libapache2-mod-php php-mysql
 php -v
 sudo vim /var/www/html/index.php
-# Below code to the above index.php file to check the php installation.
+# Add the below code to the index.php file to check the installation.
 <?php
 phpinfo();
 
