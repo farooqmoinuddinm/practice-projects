@@ -8,7 +8,9 @@
 
 ```
 
+# Update the system packages
 sudo apt update
+# Install the apche server
 sudo apt install apache2
  
 
@@ -18,8 +20,11 @@ sudo apt install apache2
 *mysql server installation*
 ```
 
+# Install the mysql server
 sudo apt install mysql-server -y
+# Login to the mysql server
 sudo mysql
+# Secure the mysql installation
 sudo mysql_secure_installation
 
 ```
