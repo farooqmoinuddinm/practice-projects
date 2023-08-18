@@ -1,4 +1,8 @@
 # Setting up the LAMP Server in Ubuntu.
+
+#### What is LAMP ?
+LAMP is an acronym that represents a popular software stack used for building and deploying web applications. It stands for: Linux, Apache, MYSQL and PHP.\
+In the project I will be setting up the Ubuntu machine in AWS public cloud to deploy this popular web application stack.
 ### Created the ec2-instance in AWS cloud.
 <img width="452" alt="image" src="https://github.com/farooqmoinuddinm/practice-projects/assets/23025815/65aedfba-42ab-41cc-ab43-f3cd0f532f8d">
 
